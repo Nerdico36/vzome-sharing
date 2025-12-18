@@ -1,0 +1,1357 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="67" field="rootTwo" version="7.0">
+  <EditHistory editNumber="1031" lastStickyEdit="1">
+    <Branch>
+      <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="12" len="0 2" symm="octahedral"/>
+      <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="3" len="0 2" symm="octahedral"/>
+      <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="18" len="0 2" symm="octahedral"/>
+      <Branch>
+        <StrutCreation anchor="-2 0 0 0 2 0" dir="green" index="17" len="0 2" symm="octahedral"/>
+        <StrutCreation anchor="-2 0 0 0 2 0" dir="green" index="15" len="0 2" symm="octahedral"/>
+        <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="0" len="0 2" symm="octahedral"/>
+        <SelectManifestation endSegment="0 2 0 2 0 2" startSegment="0 0 0 0 0 0"/>
+        <RotationTool corrected="true" full="true" name="tool-0" symmetry="octahedral"/>
+      </Branch>
+    </Branch>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="0" len="0 8" symm="octahedral"/>
+    <SelectManifestation point="0 8 0 8 0 8"/>
+    <ApplyTool name="octahedral.builtin/octahedral around origin" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 8 0 -8 0 8" index="5" len="0 16" symm="octahedral"/>
+    <SelectManifestation endSegment="0 8 0 8 0 8" startSegment="0 8 0 -8 0 8"/>
+    <ApplyTool name="octahedral.builtin/octahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 8 0 8 0 8" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="0 -8 0 8 0 8" dir="green" index="2" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -4 0 8 0 4" dir="green" index="19" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -4 0 4 0 0" dir="green" index="14" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -8 0 4 0 -4" dir="green" index="18" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -4 0 4 0 0" dir="green" index="3" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="16" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="2" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 -4 0 4" dir="green" index="0" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 -4 0 4" dir="green" index="15" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 4 0 -4 0 8" dir="green" index="3" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -4 0 -8 0 4" dir="green" index="12" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 4 0 0 0 -4" dir="green" index="1" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 4 0 0 0 -4" dir="green" index="19" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 4 0 -4 0 -8" dir="green" index="3" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 8 0 4 0 -4" dir="green" index="18" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="0" len="0 4" symm="octahedral"/>
+    <StrutCreation anchor="0 4 0 4 0 4" dir="green" index="12" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 4 0 4 0 4" dir="green" index="18" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 4 0 4 0 4" dir="green" index="3" len="8 0" symm="octahedral"/>
+    <SelectManifestation endSegment="0 4 0 4 0 4" startSegment="0 0 0 0 0 0"/>
+    <Delete/>
+    <StrutCreation anchor="0 8 0 0 0 4" dir="green" index="19" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 8 0 -4 0 0" dir="green" index="15" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 4 0 -8 0 0" dir="green" index="14" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 -8 0 -4" dir="green" index="13" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -4 0 -4 0 -4" dir="green" index="18" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -4 0 0 0 -8" dir="green" index="1" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 4 0 -8" dir="green" index="17" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 8 0 -4" dir="green" index="0" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="15" len="0 2" symm="octahedral"/>
+    <StrutCreation anchor="0 -2 0 -2 0 -2" dir="green" index="18" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -2 0 0 0 -4" startSegment="0 -2 0 -2 0 -2"/>
+    <SelectManifestation point="0 -2 0 0 0 -4"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 -4 0 -2" dir="green" index="18" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -2 0 0 0 -4" dir="green" index="3" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 0 -2 0 -4" startSegment="0 -2 0 0 0 -4"/>
+    <SelectManifestation point="0 0 0 -2 0 -4"/>
+    <SelectManifestation endSegment="0 0 0 -2 0 -4" startSegment="0 0 0 -4 0 -2"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 -2 0 0 0 -4" startSegment="0 -2 0 -2 0 -2"/>
+    <SelectManifestation endSegment="0 -4 0 -2 0 0" startSegment="0 -2 0 -2 0 -2"/>
+    <SelectManifestation endSegment="0 0 0 -4 0 -2" startSegment="0 -2 0 -2 0 -2"/>
+    <SelectManifestation endSegment="0 -2 0 -2 0 -2" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 -2 0 -2 0 -2"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="0 0 0 4 0 8" dir="green" index="15" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -4 0 0 0 8" dir="green" index="14" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -8 0 0 0 4" dir="green" index="19" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -8 0 -4 0 0" dir="green" index="2" len="8 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 -4 0 -2" dir="green" index="16" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -2 0 -4 0 0" dir="green" index="3" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 0 -6 0 0" startSegment="0 0 0 -4 0 -2"/>
+    <SelectManifestation endSegment="0 0 0 -6 0 0" startSegment="0 0 0 -4 0 -2"/>
+    <EndBlock/>
+    <StrutCreation anchor="0 -4 0 -2 0 0" dir="green" index="16" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -2 0 -4 0 0" dir="green" index="12" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 0 -6 0 0" startSegment="0 0 0 -4 0 -2"/>
+    <SelectManifestation point="0 0 0 -6 0 0"/>
+    <SelectManifestation endSegment="0 0 0 -6 0 0" startSegment="0 -2 0 -4 0 0"/>
+    <SelectManifestation endSegment="0 -4 0 -4 0 2" startSegment="0 -4 0 -2 0 0"/>
+    <SelectManifestation point="0 -4 0 -4 0 2"/>
+    <SelectManifestation endSegment="0 -4 0 -4 0 2" startSegment="0 -2 0 -4 0 0"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 -4 0 -2 0 0" dir="green" index="17" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -4 0 -4 0 2" dir="green" index="17" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -4 0 0 0 2" dir="green" index="16" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -4 0 0 0 2" startSegment="0 -4 0 -2 0 0"/>
+    <SelectManifestation point="0 -4 0 0 0 2"/>
+    <SelectManifestation endSegment="0 -4 0 -2 0 4" startSegment="0 -4 0 0 0 2"/>
+    <SelectManifestation point="0 -4 0 -2 0 4"/>
+    <SelectManifestation endSegment="0 -4 0 -2 0 4" startSegment="0 -4 0 -4 0 2"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 -4 0 0 0 2" dir="green" index="14" len="4 0" symm="octahedral"/>
+    <SelectManifestation endSegment="0 -6 0 0 0 0" startSegment="0 -4 0 0 0 2"/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 -4 0 0 0 -2" dir="green" index="14" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -6 0 0 0 0" dir="green" index="14" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -6 0 0 0 -4" dir="green" index="12" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -6 0 0 0 -4" startSegment="0 -4 0 0 0 -2"/>
+    <SelectManifestation point="0 -6 0 0 0 -4"/>
+    <SelectManifestation endSegment="0 -8 0 0 0 -2" startSegment="0 -6 0 0 0 -4"/>
+    <SelectManifestation point="0 -8 0 0 0 -2"/>
+    <SelectManifestation endSegment="0 -8 0 0 0 -2" startSegment="0 -6 0 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <StrutCreation anchor="0 -4 0 2 0 -4" dir="green" index="15" len="4 0" symm="octahedral"/>
+    <SelectManifestation endSegment="0 -6 0 0 0 -4" startSegment="0 -4 0 2 0 -4"/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 2 0 -4 0 -4" dir="green" index="3" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 4 0 -6 0 -4" dir="green" index="19" len="4 0" symm="octahedral"/>
+    <SelectManifestation endSegment="0 8 0 -8 0 -8" startSegment="0 -8 0 -8 0 -8"/>
+    <ApplyTool name="octahedral.builtin/octahedral around origin" selectInputs="true"/>
+    <Delete/>
+    <StrutCreation anchor="0 4 0 -8 0 -6" dir="green" index="14" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 -4 0 -6" dir="green" index="19" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 -6 0 -8" dir="green" index="3" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 4 0 -6 0 -4" startSegment="0 2 0 -4 0 -4"/>
+    <SelectManifestation point="0 4 0 -6 0 -4"/>
+    <SelectManifestation endSegment="0 4 0 -8 0 -6" startSegment="0 4 0 -6 0 -4"/>
+    <SelectManifestation point="0 4 0 -8 0 -6"/>
+    <SelectManifestation endSegment="0 2 0 -8 0 -8" startSegment="0 4 0 -8 0 -6"/>
+    <SelectManifestation point="0 2 0 -8 0 -8"/>
+    <SelectManifestation endSegment="0 2 0 -8 0 -8" startSegment="0 0 0 -6 0 -8"/>
+    <SelectManifestation point="0 0 0 -6 0 -8"/>
+    <SelectManifestation endSegment="0 0 0 -6 0 -8" startSegment="0 0 0 -4 0 -6"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <StrutCreation anchor="0 4 0 -4 0 -2" dir="green" index="19" len="4 0" symm="octahedral"/>
+    <SelectManifestation endSegment="0 4 0 -6 0 -4" startSegment="0 4 0 -4 0 -2"/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 -4 0 -6" dir="green" index="14" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 -6 0 -8" dir="green" index="13" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -2 0 -4 0 -8" dir="green" index="1" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -2 0 -4 0 -8" startSegment="0 0 0 -6 0 -8"/>
+    <SelectManifestation endSegment="0 -2 0 -4 0 -8" startSegment="0 0 0 -4 0 -6"/>
+    <SelectManifestation point="0 -2 0 -4 0 -8"/>
+    <SelectManifestation endSegment="0 0 0 -2 0 -8" startSegment="0 -2 0 -4 0 -8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 -6 0 -8" dir="green" index="15" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -2 0 -4 0 -8" dir="green" index="15" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -4 0 -6 0 -8" dir="green" index="3" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -2 0 -8 0 -8" startSegment="0 0 0 -6 0 -8"/>
+    <SelectManifestation point="0 -2 0 -8 0 -8"/>
+    <SelectManifestation endSegment="0 -2 0 -8 0 -8" startSegment="0 -4 0 -6 0 -8"/>
+    <SelectManifestation endSegment="0 -4 0 -6 0 -8" startSegment="0 -2 0 -4 0 -8"/>
+    <SelectManifestation point="0 -4 0 -6 0 -8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 -8 0 -2 0 -8" dir="green" index="3" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -6 0 -4 0 -8" dir="green" index="12" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -8 0 -4 0 -6" startSegment="0 -6 0 -4 0 -8"/>
+    <SelectManifestation point="0 -6 0 -4 0 -8"/>
+    <SelectManifestation endSegment="0 -6 0 -4 0 -8" startSegment="0 -8 0 -2 0 -8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 -6 0 -4 0 -8" dir="green" index="3" len="4 0" symm="octahedral"/>
+    <SelectManifestation endSegment="0 -4 0 -6 0 -8" startSegment="0 -6 0 -4 0 -8"/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 -2 0 -8" dir="green" index="1" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 0 -6" dir="green" index="2" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 2 0 0 0 -8" startSegment="0 0 0 0 0 -6"/>
+    <SelectManifestation point="0 2 0 0 0 -8"/>
+    <SelectManifestation endSegment="0 2 0 0 0 -8" startSegment="0 0 0 -2 0 -8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 2 0 0 0 -8" dir="green" index="1" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 2 0 -4" dir="green" index="1" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 2 0 4 0 -4" dir="green" index="2" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 4 0 4 0 -6" dir="green" index="19" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 2 0 4 0 -4" startSegment="0 0 0 2 0 -4"/>
+    <SelectManifestation point="0 2 0 4 0 -4"/>
+    <SelectManifestation endSegment="0 4 0 4 0 -6" startSegment="0 2 0 4 0 -4"/>
+    <SelectManifestation point="0 4 0 4 0 -6"/>
+    <SelectManifestation endSegment="0 4 0 2 0 -8" startSegment="0 4 0 4 0 -6"/>
+    <SelectManifestation point="0 4 0 2 0 -8"/>
+    <SelectManifestation endSegment="0 4 0 2 0 -8" startSegment="0 2 0 0 0 -8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 2 0 -4" dir="green" index="17" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 2 0 4 0 -4" dir="green" index="12" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 4 0 -2" dir="green" index="14" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 2 0 4 0 -4" dir="green" index="1" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 4 0 4 0 -6" dir="green" index="17" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 4 0 2 0 -8" dir="green" index="1" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 4 0 4 0 -6" dir="green" index="2" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -2 0 4 0 -4" startSegment="0 0 0 4 0 -2"/>
+    <SelectManifestation endSegment="0 0 0 4 0 -2" startSegment="0 0 0 2 0 -4"/>
+    <SelectManifestation endSegment="0 0 0 4 0 -2" startSegment="0 2 0 4 0 -4"/>
+    <SelectManifestation point="0 0 0 4 0 -2"/>
+    <SelectManifestation endSegment="0 4 0 6 0 -4" startSegment="0 2 0 4 0 -4"/>
+    <SelectManifestation point="0 4 0 6 0 -4"/>
+    <SelectManifestation endSegment="0 4 0 6 0 -4" startSegment="0 4 0 4 0 -6"/>
+    <SelectManifestation endSegment="0 6 0 4 0 -8" startSegment="0 4 0 4 0 -6"/>
+    <SelectManifestation point="0 6 0 4 0 -8"/>
+    <SelectManifestation endSegment="0 6 0 4 0 -8" startSegment="0 4 0 2 0 -8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 -4 0 4 0 -6" dir="green" index="18" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -6 0 4 0 -8" dir="green" index="1" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -4 0 6 0 -8" startSegment="0 -4 0 4 0 -6"/>
+    <SelectManifestation point="0 -4 0 6 0 -8"/>
+    <SelectManifestation endSegment="0 -4 0 6 0 -8" startSegment="0 -6 0 4 0 -8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 -4 0 4 0 -6" dir="green" index="17" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -4 0 6 0 -4" dir="green" index="18" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -4 0 6 0 -8" dir="green" index="17" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -4 0 6 0 -4" startSegment="0 -4 0 4 0 -6"/>
+    <SelectManifestation point="0 -4 0 6 0 -4"/>
+    <SelectManifestation endSegment="0 -4 0 8 0 -6" startSegment="0 -4 0 6 0 -4"/>
+    <SelectManifestation point="0 -4 0 8 0 -6"/>
+    <SelectManifestation endSegment="0 -4 0 8 0 -6" startSegment="0 -4 0 6 0 -8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <StrutCreation anchor="0 -2 0 4 0 -4" dir="green" index="13" len="4 0" symm="octahedral"/>
+    <SelectManifestation endSegment="0 -4 0 6 0 -4" startSegment="0 -2 0 4 0 -4"/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 -4 0 8 0 -6" dir="green" index="2" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -4 0 6 0 -8" dir="green" index="1" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -2 0 8 0 -8" startSegment="0 -4 0 8 0 -6"/>
+    <SelectManifestation point="0 -2 0 8 0 -8"/>
+    <SelectManifestation endSegment="0 -2 0 8 0 -8" startSegment="0 -4 0 6 0 -8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 -4 0 6 0 -4" dir="green" index="13" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -4 0 8 0 -6" dir="green" index="12" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -6 0 8 0 -4" startSegment="0 -4 0 8 0 -6"/>
+    <SelectManifestation point="0 -6 0 8 0 -4"/>
+    <SelectManifestation endSegment="0 -6 0 8 0 -4" startSegment="0 -4 0 6 0 -4"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 -4 0 -4 0 6" dir="green" index="0" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -4 0 -6 0 8" dir="green" index="1" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -2 0 -4 0 8" startSegment="0 -4 0 -4 0 6"/>
+    <SelectManifestation point="0 -2 0 -4 0 8"/>
+    <SelectManifestation endSegment="0 -2 0 -4 0 8" startSegment="0 -4 0 -6 0 8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 -2 0 0 0 4" dir="green" index="0" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -2 0 -4 0 8" dir="green" index="1" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 0 6" dir="green" index="16" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 0 0 0 6" startSegment="0 -2 0 0 0 4"/>
+    <SelectManifestation point="0 0 0 0 0 6"/>
+    <SelectManifestation endSegment="0 0 0 -2 0 8" startSegment="0 0 0 0 0 6"/>
+    <SelectManifestation point="0 0 0 -2 0 8"/>
+    <SelectManifestation endSegment="0 0 0 -2 0 8" startSegment="0 -2 0 -4 0 8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 -2 0 0 0 4" dir="green" index="1" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 2 0 4" dir="green" index="16" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 0 0 6" dir="green" index="0" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 2 0 0 0 8" dir="green" index="15" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -2 0 -4 0 8" dir="green" index="0" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 -2 0 8" dir="green" index="16" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 0 2 0 4" startSegment="0 -2 0 0 0 4"/>
+    <SelectManifestation point="0 0 0 2 0 4"/>
+    <SelectManifestation endSegment="0 0 0 0 0 6" startSegment="0 0 0 2 0 4"/>
+    <SelectManifestation endSegment="0 4 0 0 0 -4" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 4 0 0 0 -4" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 2 0 0 0 8" startSegment="0 0 0 0 0 6"/>
+    <SelectManifestation point="0 2 0 0 0 8"/>
+    <SelectManifestation endSegment="0 0 0 -2 0 8" startSegment="0 2 0 0 0 8"/>
+    <SelectManifestation endSegment="0 0 0 -4 0 10" startSegment="0 0 0 -2 0 8"/>
+    <SelectManifestation point="0 0 0 -4 0 10"/>
+    <SelectManifestation endSegment="0 0 0 -4 0 10" startSegment="0 -2 0 -4 0 8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 -4 0 -6 0 8" dir="green" index="3" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -2 0 -4 0 8" dir="green" index="3" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 -6 0 8" dir="green" index="15" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -2 0 -8 0 8" startSegment="0 -4 0 -6 0 8"/>
+    <SelectManifestation point="0 -2 0 -8 0 8"/>
+    <SelectManifestation endSegment="0 -2 0 -8 0 8" startSegment="0 0 0 -6 0 8"/>
+    <SelectManifestation endSegment="0 0 0 -6 0 8" startSegment="0 -2 0 -4 0 8"/>
+    <SelectManifestation point="0 0 0 -6 0 8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 -4 0 10" startSegment="0 -2 0 -4 0 8"/>
+    <SelectManifestation endSegment="0 0 0 -4 0 10" startSegment="0 0 0 -2 0 8"/>
+    <SelectManifestation point="0 0 0 -4 0 10"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <Delete/>
+    <StrutCreation anchor="0 -2 0 -8 0 8" dir="green" index="2" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 0 0 -6 0 8" dir="green" index="19" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 0 -8 0 6" startSegment="0 -2 0 -8 0 8"/>
+    <SelectManifestation point="0 0 0 -8 0 6"/>
+    <SelectManifestation endSegment="0 0 0 -8 0 6" startSegment="0 0 0 -6 0 8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 4 0 0 0 2" dir="green" index="16" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 4 0 -4 0 2" dir="green" index="17" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 4 0 -2 0 4" startSegment="0 4 0 -4 0 2"/>
+    <SelectManifestation point="0 4 0 -2 0 4"/>
+    <SelectManifestation endSegment="0 4 0 -2 0 4" startSegment="0 4 0 0 0 2"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 4 0 4 0 -2" dir="green" index="18" len="4 0" symm="octahedral"/>
+    <SelectManifestation endSegment="0 4 0 6 0 -4" startSegment="0 4 0 4 0 -2"/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 2 0 4 0 0" dir="green" index="3" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 4 0 4 0 -2" dir="green" index="16" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 4 0 2 0 0" startSegment="0 4 0 4 0 -2"/>
+    <SelectManifestation point="0 4 0 2 0 0"/>
+    <SelectManifestation endSegment="0 4 0 2 0 0" startSegment="0 2 0 4 0 0"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 4 0 2" dir="green" index="2" len="4 0" symm="octahedral"/>
+    <SelectManifestation endSegment="0 2 0 4 0 0" startSegment="0 0 0 4 0 2"/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 0 0 0 6" dir="green" index="2" len="4 0" symm="octahedral"/>
+    <SelectManifestation endSegment="0 2 0 0 0 4" startSegment="0 0 0 0 0 6"/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 2 0 0 0 4" dir="green" index="0" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 4 0 0 0 6" dir="green" index="12" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 2 0 0 0 8" startSegment="0 4 0 0 0 6"/>
+    <SelectManifestation endSegment="0 4 0 0 0 6" startSegment="0 2 0 0 0 4"/>
+    <SelectManifestation point="0 4 0 0 0 6"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 4 0 0 0 6" dir="green" index="19" len="4 0" symm="octahedral"/>
+    <SelectManifestation endSegment="0 4 0 -2 0 4" startSegment="0 4 0 0 0 6"/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 4 0 0 0 6" dir="green" index="0" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 6 0 0 0 8" dir="green" index="3" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 6 0 -4 0 4" dir="green" index="0" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 8 0 -2 0 8" dir="green" index="19" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 8 0 -4 0 6" startSegment="0 6 0 -4 0 4"/>
+    <SelectManifestation point="0 8 0 -4 0 6"/>
+    <SelectManifestation endSegment="0 8 0 -4 0 6" startSegment="0 8 0 -2 0 8"/>
+    <SelectManifestation point="0 8 0 -2 0 8"/>
+    <SelectManifestation endSegment="0 8 0 -2 0 8" startSegment="0 6 0 0 0 8"/>
+    <SelectManifestation point="0 6 0 0 0 8"/>
+    <SelectManifestation endSegment="0 6 0 0 0 8" startSegment="0 4 0 0 0 6"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 8 0 -2 0 8" dir="green" index="3" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 8 0 -4 0 6" dir="green" index="0" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 10 0 -4 0 8" startSegment="0 8 0 -4 0 6"/>
+    <SelectManifestation point="0 10 0 -4 0 8"/>
+    <SelectManifestation endSegment="0 10 0 -4 0 8" startSegment="0 8 0 -2 0 8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 4 0 0 0 6" dir="green" index="17" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 2 0 0 0 8" dir="green" index="1" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 6 0 0 0 8" dir="green" index="13" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 4 0 2 0 8" startSegment="0 6 0 0 0 8"/>
+    <SelectManifestation endSegment="0 4 0 2 0 8" startSegment="0 4 0 0 0 6"/>
+    <SelectManifestation endSegment="0 4 0 2 0 8" startSegment="0 2 0 0 0 8"/>
+    <SelectManifestation point="0 4 0 2 0 8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 6 0 0 0 8" dir="green" index="1" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 4 0 2 0 8" dir="green" index="1" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 6 0 4 0 8" dir="green" index="3" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 8 0 2 0 8" startSegment="0 6 0 0 0 8"/>
+    <SelectManifestation point="0 8 0 2 0 8"/>
+    <SelectManifestation endSegment="0 8 0 2 0 8" startSegment="0 6 0 4 0 8"/>
+    <SelectManifestation endSegment="0 6 0 4 0 8" startSegment="0 4 0 2 0 8"/>
+    <SelectManifestation point="0 6 0 4 0 8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 6 0 4 0 8" dir="green" index="2" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 8 0 2 0 8" dir="green" index="18" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 8 0 4 0 6" startSegment="0 6 0 4 0 8"/>
+    <SelectManifestation point="0 8 0 4 0 6"/>
+    <SelectManifestation endSegment="0 8 0 4 0 6" startSegment="0 8 0 2 0 8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 4 0 6 0 8" dir="green" index="3" len="4 0" symm="octahedral"/>
+    <SelectManifestation endSegment="0 6 0 4 0 8" startSegment="0 4 0 6 0 8"/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 -4 0 8 0 10" startSegment="0 -2 0 8 0 8"/>
+    <SelectManifestation point="0 -4 0 8 0 10"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 -4 0 8 0 10" startSegment="0 -4 0 6 0 8"/>
+    <SelectManifestation point="0 -4 0 8 0 10"/>
+    <SelectManifestation endSegment="0 -4 0 8 0 10" startSegment="0 -2 0 8 0 8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <Delete/>
+    <StrutCreation anchor="0 -4 0 4 0 6" dir="green" index="12" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -4 0 6 0 8" dir="green" index="15" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -6 0 4 0 8" startSegment="0 -4 0 4 0 6"/>
+    <SelectManifestation point="0 -6 0 4 0 8"/>
+    <SelectManifestation endSegment="0 -6 0 4 0 8" startSegment="0 -4 0 6 0 8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 -6 0 4 0 4" dir="green" index="12" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -6 0 4 0 8" dir="green" index="14" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -8 0 4 0 6" startSegment="0 -6 0 4 0 4"/>
+    <SelectManifestation point="0 -8 0 4 0 6"/>
+    <SelectManifestation endSegment="0 -8 0 4 0 6" startSegment="0 -6 0 4 0 8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 -8 0 6 0 4" dir="green" index="16" len="4 0" symm="octahedral"/>
+    <SelectManifestation endSegment="0 -8 0 4 0 6" startSegment="0 -8 0 6 0 4"/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 -8 0 4 0 2" dir="green" index="18" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -8 0 6 0 4" dir="green" index="18" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -8 0 6 0 0" dir="green" index="17" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -8 0 6 0 0" startSegment="0 -8 0 4 0 2"/>
+    <SelectManifestation endSegment="0 -8 0 8 0 2" startSegment="0 -8 0 6 0 0"/>
+    <SelectManifestation point="0 -8 0 8 0 2"/>
+    <SelectManifestation endSegment="0 -8 0 8 0 2" startSegment="0 -8 0 6 0 4"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 -8 0 8 0 2" dir="green" index="2" len="4 0" symm="octahedral"/>
+    <SelectManifestation endSegment="0 -6 0 8 0 0" startSegment="0 -8 0 8 0 2"/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <StrutCreation anchor="0 -8 0 4 0 6" dir="green" index="16" len="4 0" symm="octahedral"/>
+    <StrutCreation anchor="0 -6 0 4 0 8" dir="green" index="15" len="4 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -8 0 2 0 8" startSegment="0 -6 0 4 0 8"/>
+    <SelectManifestation point="0 -8 0 2 0 8"/>
+    <SelectManifestation endSegment="0 -8 0 2 0 8" startSegment="0 -8 0 4 0 6"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 8 0 8 0 -8" startSegment="0 8 0 4 0 -4"/>
+    <SelectManifestation point="0 8 0 4 0 -4"/>
+    <SelectManifestation endSegment="0 8 0 4 0 -4" startSegment="0 4 0 0 0 -4"/>
+    <SelectManifestation point="0 4 0 0 0 -4"/>
+    <SelectManifestation endSegment="0 4 0 0 0 -4" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 4 0 -4 0 -8" startSegment="0 4 0 0 0 -4"/>
+    <SelectManifestation point="0 4 0 -4 0 -8"/>
+    <SelectManifestation endSegment="0 8 0 -8 0 -8" startSegment="0 4 0 -4 0 -8"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 4 0 4 0 4"/>
+    <SelectManifestation endSegment="0 4 0 8 0 0" startSegment="0 4 0 4 0 4"/>
+    <SelectManifestation point="0 4 0 8 0 0"/>
+    <SelectManifestation endSegment="0 4 0 8 0 0" startSegment="0 0 0 8 0 -4"/>
+    <SelectManifestation point="0 0 0 8 0 -4"/>
+    <SelectManifestation endSegment="0 0 0 8 0 -4" startSegment="0 0 0 4 0 -8"/>
+    <SelectManifestation point="0 0 0 4 0 -8"/>
+    <SelectManifestation endSegment="0 0 0 4 0 -8" startSegment="0 -4 0 0 0 -8"/>
+    <SelectManifestation point="0 -4 0 0 0 -8"/>
+    <SelectManifestation endSegment="0 -4 0 0 0 -8" startSegment="0 -4 0 -4 0 -4"/>
+    <SelectManifestation point="0 -4 0 -4 0 -4"/>
+    <EndBlock/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 6 0 -8 0 -4"/>
+    <SelectManifestation point="0 8 0 -8 0 -2"/>
+    <SelectManifestation point="0 8 0 -6 0 -4"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 6 0 -4 0 -4"/>
+    <SelectManifestation point="0 8 0 -6 0 -4"/>
+    <SelectManifestation point="0 8 0 -4 0 -6"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 6 0 -8 0 -4"/>
+    <SelectManifestation point="0 4 0 -6 0 -4"/>
+    <SelectManifestation point="0 6 0 -4 0 -4"/>
+    <SelectManifestation point="0 8 0 -6 0 -4"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 2 0 4 0 0"/>
+    <SelectManifestation point="0 0 0 6 0 0"/>
+    <SelectManifestation point="0 0 0 4 0 2"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 4 0 2 0 0"/>
+    <SelectManifestation point="0 4 0 4 0 -2"/>
+    <SelectManifestation point="0 2 0 4 0 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 -2 0 -4"/>
+    <SelectManifestation point="0 0 0 0 0 -6"/>
+    <SelectManifestation point="0 -2 0 0 0 -4"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 -4 0 0 0 -2"/>
+    <SelectManifestation point="0 -2 0 0 0 -4"/>
+    <SelectManifestation point="0 -4 0 2 0 -4"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 -2 0 0 0 -4"/>
+    <SelectManifestation point="0 0 0 0 0 -6"/>
+    <SelectManifestation point="0 0 0 2 0 -4"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 2 0 -4"/>
+    <SelectManifestation point="0 2 0 4 0 -4"/>
+    <SelectManifestation point="0 0 0 4 0 -2"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 4 0 -2"/>
+    <SelectManifestation point="0 0 0 2 0 -4"/>
+    <SelectManifestation point="0 -2 0 4 0 -4"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 2 0 4 0 0"/>
+    <SelectManifestation point="0 0 0 4 0 -2"/>
+    <SelectManifestation point="0 0 0 6 0 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 -4 0 -4 0 2"/>
+    <SelectManifestation point="0 -6 0 -4 0 4"/>
+    <SelectManifestation point="0 -4 0 -2 0 4"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 -6 0 -4 0 4"/>
+    <SelectManifestation point="0 -4 0 -4 0 6"/>
+    <SelectManifestation point="0 -4 0 -2 0 4"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 4 0 0 0 6"/>
+    <SelectManifestation point="0 2 0 0 0 4"/>
+    <SelectManifestation point="0 4 0 -2 0 4"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 4 0 0 0 6"/>
+    <SelectManifestation point="0 6 0 0 0 8"/>
+    <SelectManifestation point="0 4 0 2 0 8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 -2 0 -4"/>
+    <SelectManifestation point="0 0 0 -4 0 -6"/>
+    <SelectManifestation point="0 2 0 -4 0 -4"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 8 0 0 0 -6"/>
+    <SelectManifestation point="0 8 0 -2 0 -4"/>
+    <SelectManifestation point="0 8 0 -4 0 -6"/>
+    <SelectManifestation point="0 8 0 -2 0 -8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 8 0 6 0 0"/>
+    <SelectManifestation point="0 8 0 8 0 2"/>
+    <SelectManifestation point="0 8 0 6 0 4"/>
+    <SelectManifestation point="0 8 0 4 0 2"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 -8 0 8 0 2"/>
+    <SelectManifestation point="0 -8 0 6 0 4"/>
+    <SelectManifestation point="0 -8 0 4 0 2"/>
+    <SelectManifestation point="0 -8 0 6 0 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 -4 0 4 0 6"/>
+    <SelectManifestation point="0 -6 0 4 0 4"/>
+    <SelectManifestation point="0 -8 0 4 0 6"/>
+    <SelectManifestation point="0 -6 0 4 0 8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 2 0 4 0 -4"/>
+    <SelectManifestation point="0 0 0 4 0 -2"/>
+    <SelectManifestation point="0 2 0 4 0 0"/>
+    <SelectManifestation point="0 4 0 4 0 -2"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 -2 0 0 0 -4"/>
+    <SelectManifestation point="0 -4 0 2 0 -4"/>
+    <SelectManifestation point="0 -2 0 4 0 -4"/>
+    <SelectManifestation point="0 0 0 2 0 -4"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 2 0 0 0 -8"/>
+    <SelectManifestation point="0 0 0 -2 0 -8"/>
+    <SelectManifestation point="0 0 0 0 0 -6"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 6 0 4 0 -8"/>
+    <SelectManifestation point="0 4 0 2 0 -8"/>
+    <SelectManifestation point="0 4 0 4 0 -6"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 6 0 4 0 -8"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 6 0 4 0 -8"/>
+    <SelectManifestation point="0 4 0 4 0 -6"/>
+    <SelectManifestation point="0 4 0 6 0 -8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 -2 0 -4"/>
+    <SelectManifestation point="0 0 0 -4 0 -6"/>
+    <SelectManifestation point="0 0 0 -2 0 -8"/>
+    <SelectManifestation point="0 0 0 0 0 -6"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 -2 0 -4 0 -8"/>
+    <SelectManifestation point="0 0 0 -6 0 -8"/>
+    <SelectManifestation point="0 -2 0 -8 0 -8"/>
+    <SelectManifestation point="0 -4 0 -6 0 -8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 8 0 2 0 0"/>
+    <SelectManifestation point="0 6 0 0 0 0"/>
+    <SelectManifestation point="0 4 0 2 0 0"/>
+    <SelectManifestation point="0 6 0 4 0 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 8 0 4 0 2"/>
+    <SelectManifestation point="0 8 0 2 0 0"/>
+    <SelectManifestation point="0 6 0 4 0 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 4 0 -2 0 4"/>
+    <SelectManifestation point="0 6 0 -4 0 4"/>
+    <SelectManifestation point="0 4 0 -4 0 2"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 4 0 -6 0 4"/>
+    <SelectManifestation point="0 6 0 -4 0 4"/>
+    <SelectManifestation point="0 4 0 -4 0 2"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 8 0 -6 0 4" startSegment="0 8 0 -4 0 6"/>
+    <SelectManifestation endSegment="0 8 0 -6 0 4" startSegment="0 8 0 -4 0 6"/>
+    <SelectManifestation point="0 8 0 -6 0 4"/>
+    <SelectManifestation point="0 8 0 -4 0 6"/>
+    <SelectManifestation point="0 6 0 -4 0 4"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 -6 0 -8 0 0"/>
+    <SelectManifestation point="0 -4 0 -8 0 -2"/>
+    <SelectManifestation point="0 -4 0 -6 0 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 -4 0 -8 0 -2"/>
+    <SelectManifestation point="0 -2 0 -8 0 0"/>
+    <SelectManifestation point="0 -4 0 -6 0 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 -6 0 -4 0 4"/>
+    <SelectManifestation point="0 -8 0 -6 0 4"/>
+    <SelectManifestation point="0 -8 0 -4 0 6"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 -4 0 -6 0 8"/>
+    <SelectManifestation point="0 -2 0 -4 0 8"/>
+    <SelectManifestation point="0 -4 0 -4 0 6"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 -8 0 6"/>
+    <SelectManifestation point="0 -2 0 -8 0 8"/>
+    <SelectManifestation point="0 0 0 -6 0 8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 -8 0 6"/>
+    <SelectManifestation point="0 2 0 -8 0 8"/>
+    <SelectManifestation point="0 0 0 -6 0 8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 6"/>
+    <SelectManifestation point="0 0 0 -2 0 8"/>
+    <SelectManifestation point="0 2 0 0 0 8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 8 0 2 0 8"/>
+    <SelectManifestation point="0 8 0 4 0 6"/>
+    <SelectManifestation point="0 6 0 4 0 8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 -6 0 8 0 0"/>
+    <SelectManifestation point="0 -8 0 6 0 0"/>
+    <SelectManifestation point="0 -8 0 8 0 2"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 4 0 6 0 -8"/>
+    <SelectManifestation point="0 2 0 8 0 -8"/>
+    <SelectManifestation point="0 4 0 8 0 -6"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 -2 0 -8 0 -8"/>
+    <SelectManifestation point="0 -4 0 -8 0 -6"/>
+    <SelectManifestation point="0 -4 0 -6 0 -8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 -4 0 -6"/>
+    <SelectManifestation point="0 2 0 -4 0 -4"/>
+    <SelectManifestation point="0 4 0 -6 0 -4"/>
+    <SelectManifestation point="0 4 0 -8 0 -6"/>
+    <SelectManifestation point="0 2 0 -8 0 -8"/>
+    <SelectManifestation point="0 0 0 -6 0 -8"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <setItemColor blue="102" green="102" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 -8 0 -4 0 -6"/>
+    <SelectManifestation point="0 -6 0 -4 0 -8"/>
+    <SelectManifestation point="0 -4 0 -6 0 -8"/>
+    <SelectManifestation point="0 -4 0 -8 0 -6"/>
+    <SelectManifestation point="0 -6 0 -8 0 -4"/>
+    <SelectManifestation point="0 -8 0 -6 0 -4"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <setItemColor blue="102" green="102" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 -2 0 -4"/>
+    <SelectManifestation point="0 -2 0 0 0 -4"/>
+    <SelectManifestation point="0 -4 0 0 0 -2"/>
+    <SelectManifestation point="0 -4 0 -2 0 0"/>
+    <SelectManifestation point="0 -2 0 -4 0 0"/>
+    <SelectManifestation point="0 0 0 -4 0 -2"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <setItemColor blue="102" green="102" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 4 0 2"/>
+    <SelectManifestation point="0 0 0 2 0 4"/>
+    <SelectManifestation point="0 2 0 0 0 4"/>
+    <SelectManifestation>
+      <polygonVertex at="0 2 0 0 0 4"/>
+      <polygonVertex at="0 4 0 -2 0 4"/>
+      <polygonVertex at="0 4 0 0 0 2"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 2 0 0 0 4"/>
+      <polygonVertex at="0 4 0 -2 0 4"/>
+      <polygonVertex at="0 4 0 0 0 2"/>
+    </SelectManifestation>
+    <SelectManifestation point="0 4 0 0 0 2"/>
+    <SelectManifestation point="0 4 0 2 0 0"/>
+    <SelectManifestation point="0 2 0 4 0 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <setItemColor blue="102" green="102" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 4 0 -4 0 2"/>
+    <SelectManifestation point="0 4 0 -6 0 4"/>
+    <SelectManifestation point="0 2 0 -8 0 4"/>
+    <SelectManifestation point="0 0 0 -8 0 2"/>
+    <SelectManifestation point="0 0 0 -6 0 0"/>
+    <SelectManifestation point="0 2 0 -4 0 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <setItemColor blue="102" green="102" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 6 0 8 0 4"/>
+    <SelectManifestation point="0 4 0 8 0 6"/>
+    <SelectManifestation point="0 4 0 6 0 8"/>
+    <SelectManifestation point="0 6 0 4 0 8"/>
+    <SelectManifestation point="0 8 0 4 0 6"/>
+    <SelectManifestation point="0 8 0 6 0 4"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <setItemColor blue="102" green="102" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 4 0 -4 0 -2"/>
+    <SelectManifestation point="0 6 0 -4 0 -4"/>
+    <SelectManifestation point="0 8 0 -2 0 -4"/>
+    <SelectManifestation point="0 8 0 0 0 -2"/>
+    <SelectManifestation point="0 6 0 0 0 0"/>
+    <SelectManifestation point="0 4 0 -2 0 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <setItemColor blue="102" green="102" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 6 0 -4 0 4"/>
+    <SelectManifestation point="0 4 0 -2 0 4"/>
+    <SelectManifestation point="0 4 0 0 0 6"/>
+    <SelectManifestation point="0 6 0 0 0 8"/>
+    <SelectManifestation point="0 8 0 -2 0 8"/>
+    <SelectManifestation point="0 8 0 -4 0 6"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <setItemColor blue="102" green="102" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 -8 0 -8 0 -8"/>
+    <SelectManifestation point="0 -8 0 -8 0 8"/>
+    <SelectManifestation point="0 -8 0 8 0 8"/>
+    <SelectManifestation point="0 8 0 8 0 8"/>
+    <SelectManifestation point="0 8 0 -8 0 8"/>
+    <SelectManifestation point="0 8 0 -8 0 -8"/>
+    <SelectManifestation point="0 8 0 8 0 -8"/>
+    <SelectManifestation point="0 -8 0 8 0 -8"/>
+    <EndBlock/>
+    <setItemColor blue="255" green="0" red="153"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="0 2 0 -8 0 8"/>
+      <polygonVertex at="0 4 0 -8 0 6"/>
+      <polygonVertex at="0 2 0 -8 0 4"/>
+      <polygonVertex at="0 0 0 -8 0 6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 2 0 0 0 8"/>
+      <polygonVertex at="0 0 0 0 0 6"/>
+      <polygonVertex at="0 2 0 0 0 4"/>
+      <polygonVertex at="0 4 0 0 0 6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 -4 0 -2"/>
+      <polygonVertex at="0 2 0 -4 0 -4"/>
+      <polygonVertex at="0 4 0 -4 0 -2"/>
+      <polygonVertex at="0 2 0 -4 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 2 0 4 0 -4"/>
+      <polygonVertex at="0 0 0 4 0 -2"/>
+      <polygonVertex at="0 2 0 4 0 0"/>
+      <polygonVertex at="0 4 0 4 0 -2"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 2 0 -8 0 8"/>
+      <polygonVertex at="0 4 0 -8 0 6"/>
+      <polygonVertex at="0 2 0 -8 0 4"/>
+      <polygonVertex at="0 0 0 -8 0 6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 2 0 0 0 8"/>
+      <polygonVertex at="0 0 0 0 0 6"/>
+      <polygonVertex at="0 2 0 0 0 4"/>
+      <polygonVertex at="0 4 0 0 0 6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 8 0 6"/>
+      <polygonVertex at="0 2 0 8 0 8"/>
+      <polygonVertex at="0 4 0 8 0 6"/>
+      <polygonVertex at="0 2 0 8 0 4"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 -4 0 -2"/>
+      <polygonVertex at="0 2 0 -4 0 -4"/>
+      <polygonVertex at="0 4 0 -4 0 -2"/>
+      <polygonVertex at="0 2 0 -4 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 2 0 4 0 -4"/>
+      <polygonVertex at="0 0 0 4 0 -2"/>
+      <polygonVertex at="0 2 0 4 0 0"/>
+      <polygonVertex at="0 4 0 4 0 -2"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <setItemColor blue="255" green="102" red="204"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="0 -6 0 8 0 0"/>
+      <polygonVertex at="0 -4 0 8 0 -2"/>
+      <polygonVertex at="0 -6 0 8 0 -4"/>
+      <polygonVertex at="0 -8 0 8 0 -2"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 -4 0 0 0 -2"/>
+      <polygonVertex at="0 -6 0 0 0 -4"/>
+      <polygonVertex at="0 -8 0 0 0 -2"/>
+      <polygonVertex at="0 -6 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 -4 0 4 0 6"/>
+      <polygonVertex at="0 -6 0 4 0 4"/>
+      <polygonVertex at="0 -8 0 4 0 6"/>
+      <polygonVertex at="0 -6 0 4 0 8"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 -4 0 -8 0 -2"/>
+      <polygonVertex at="0 -6 0 -8 0 0"/>
+      <polygonVertex at="0 -8 0 -8 0 -2"/>
+      <polygonVertex at="0 -6 0 -8 0 -4"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 -8 0 -4 0 6"/>
+      <polygonVertex at="0 -6 0 -4 0 4"/>
+      <polygonVertex at="0 -4 0 -4 0 6"/>
+      <polygonVertex at="0 -6 0 -4 0 8"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <setItemColor blue="255" green="102" red="204"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="0 6 0 0 0 8"/>
+      <polygonVertex at="0 8 0 2 0 8"/>
+      <polygonVertex at="0 6 0 4 0 8"/>
+      <polygonVertex at="0 4 0 2 0 8"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 6 0 -4 0 4"/>
+      <polygonVertex at="0 4 0 -6 0 4"/>
+      <polygonVertex at="0 6 0 -8 0 4"/>
+      <polygonVertex at="0 8 0 -6 0 4"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 8 0 2 0 0"/>
+      <polygonVertex at="0 6 0 0 0 0"/>
+      <polygonVertex at="0 4 0 2 0 0"/>
+      <polygonVertex at="0 6 0 4 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 6 0 -8 0 -4"/>
+      <polygonVertex at="0 4 0 -6 0 -4"/>
+      <polygonVertex at="0 6 0 -4 0 -4"/>
+      <polygonVertex at="0 8 0 -6 0 -4"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 8 0 2 0 -8"/>
+      <polygonVertex at="0 6 0 4 0 -8"/>
+      <polygonVertex at="0 4 0 2 0 -8"/>
+      <polygonVertex at="0 6 0 0 0 -8"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <setItemColor blue="255" green="102" red="204"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="0 -4 0 2 0 4"/>
+      <polygonVertex at="0 -2 0 0 0 4"/>
+      <polygonVertex at="0 0 0 2 0 4"/>
+      <polygonVertex at="0 -2 0 4 0 4"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 -2 0 0 0 -4"/>
+      <polygonVertex at="0 -4 0 2 0 -4"/>
+      <polygonVertex at="0 -2 0 4 0 -4"/>
+      <polygonVertex at="0 0 0 2 0 -4"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 -6 0 8"/>
+      <polygonVertex at="0 -2 0 -4 0 8"/>
+      <polygonVertex at="0 -4 0 -6 0 8"/>
+      <polygonVertex at="0 -2 0 -8 0 8"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 -2 0 -4 0 0"/>
+      <polygonVertex at="0 -4 0 -6 0 0"/>
+      <polygonVertex at="0 -2 0 -8 0 0"/>
+      <polygonVertex at="0 0 0 -6 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 -2 0 -4 0 -8"/>
+      <polygonVertex at="0 0 0 -6 0 -8"/>
+      <polygonVertex at="0 -2 0 -8 0 -8"/>
+      <polygonVertex at="0 -4 0 -6 0 -8"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <setItemColor blue="255" green="102" red="204"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="0 -4 0 -2 0 0"/>
+      <polygonVertex at="0 -4 0 -4 0 2"/>
+      <polygonVertex at="0 -4 0 -2 0 4"/>
+      <polygonVertex at="0 -4 0 0 0 2"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 -8 0 8 0 2"/>
+      <polygonVertex at="0 -8 0 6 0 4"/>
+      <polygonVertex at="0 -8 0 4 0 2"/>
+      <polygonVertex at="0 -8 0 6 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 4 0 -4 0 2"/>
+      <polygonVertex at="0 4 0 -2 0 0"/>
+      <polygonVertex at="0 4 0 0 0 2"/>
+      <polygonVertex at="0 4 0 -2 0 4"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 8 0 2"/>
+      <polygonVertex at="0 0 0 6 0 0"/>
+      <polygonVertex at="0 0 0 4 0 2"/>
+      <polygonVertex at="0 0 0 6 0 4"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 8 0 6 0 0"/>
+      <polygonVertex at="0 8 0 8 0 2"/>
+      <polygonVertex at="0 8 0 6 0 4"/>
+      <polygonVertex at="0 8 0 4 0 2"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <setItemColor blue="255" green="102" red="204"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="0 8 0 0 0 -6"/>
+      <polygonVertex at="0 8 0 -2 0 -4"/>
+      <polygonVertex at="0 8 0 -4 0 -6"/>
+      <polygonVertex at="0 8 0 -2 0 -8"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 4 0 6 0 -4"/>
+      <polygonVertex at="0 4 0 4 0 -6"/>
+      <polygonVertex at="0 4 0 6 0 -8"/>
+      <polygonVertex at="0 4 0 8 0 -6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 -2 0 -4"/>
+      <polygonVertex at="0 0 0 -4 0 -6"/>
+      <polygonVertex at="0 0 0 -2 0 -8"/>
+      <polygonVertex at="0 0 0 0 0 -6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 -4 0 6 0 -8"/>
+      <polygonVertex at="0 -4 0 4 0 -6"/>
+      <polygonVertex at="0 -4 0 6 0 -4"/>
+      <polygonVertex at="0 -4 0 8 0 -6"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 -8 0 -2 0 -4"/>
+      <polygonVertex at="0 -8 0 0 0 -6"/>
+      <polygonVertex at="0 -8 0 -2 0 -8"/>
+      <polygonVertex at="0 -8 0 -4 0 -6"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <setItemColor blue="255" green="102" red="204"/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="152.76174926757812" far="305.5234375" near="0.38190439343452454" parallel="false" stereoAngle="0.0" width="68.7427978515625">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.806050717830658" y="0.5485786199569702" z="-0.22213204205036163"/>
+      <LookDirection x="-0.501369297504425" y="0.8323501944541931" z="0.23626452684402466"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="octahedral" renderingStyle="small octahedra">
+    <Direction color="0,118,149" name="blue"/>
+    <Direction color="0,141,54" name="green"/>
+    <Direction color="107,53,26" name="brown"/>
+    <Direction color="240,160,0" name="yellow"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="synestructics" renderingStyle="small octahedra">
+      <Direction color="240,160,0" name="yellow"/>
+      <Direction color="220,76,0" name="orange"/>
+      <Direction color="255,41,183" name="magenta"/>
+      <Direction color="107,53,26" name="brown"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool id="tool-0" label="axial symmetry 0" selectInputs="true"/>
+  </Tools>
+</vzome:vZome>

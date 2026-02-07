@@ -1,5 +1,5 @@
 ---
-title: Hellraised_Tetrahedron
+title: Hellraised Tetrahedron
 image: https://Nerdico36.github.io/vzome-sharing/2026/02/07/20-02-29-Hellraised_Tetrahedron/Hellraised_Tetrahedron.png
 layout: vzome
 ---

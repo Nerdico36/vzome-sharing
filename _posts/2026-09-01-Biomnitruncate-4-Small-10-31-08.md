@@ -62,7 +62,7 @@ Batchic symmetry is also an example of a symmetry group with multiple distinct "
   
   
   <vzome-viewer style="width: 100%; height: 60dvh" 
-        src="https://Nerdico36.github.io/vzome-sharing/2026/09/01/10-31-08-Biomnitruncate-4-Small/Biomnitruncate-2-Tetrahedra;-Transitional.vZome" >
+        src="https://Nerdico36.github.io/vzome-sharing/2026/09/01/10-31-08-Biomnitruncate-4-Small/Biomnitruncate-2-Tetrahedral-Transitional.vZome" >
     <img  style="width: 100%"
         src="https://Nerdico36.github.io/vzome-sharing/2026/09/01/10-31-08-Biomnitruncate-4-Small/Biomnitruncate-4-Small.png" >
   </vzome-viewer>
